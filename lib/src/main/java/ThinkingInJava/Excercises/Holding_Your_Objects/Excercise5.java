@@ -1,0 +1,11 @@
+package ThinkingInJava.Excercises.Holding_Your_Objects;
+
+public class Excercise5 {
+    static int i;
+    static char c;
+    public static void main(String[] args) {
+        System.out.print( i);
+        System.out.println( c);
+    }
+}
+
